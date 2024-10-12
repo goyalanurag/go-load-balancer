@@ -1,3 +1,3 @@
 ## Simple load balancer developed in Go
 
-Educational
+https://codingchallenges.fyi/challenges/challenge-load-balancer
